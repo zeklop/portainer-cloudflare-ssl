@@ -1,5 +1,4 @@
-# portainer-cloudflare-ssl
-Portainer Cloudflare Domain SSL
+# Portainer Cloudflare Domain SSL
 
 Сохраните и запустите скрипт:
 nano install-portainer.sh
